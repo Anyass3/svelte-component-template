@@ -27,7 +27,7 @@ export default [
 			{ file: pkg.custom_main, 'format': 'umd', name }
 		],
 		plugins: [
-			svelte({customElement: true,tag: "sidebar-swipe"}),
+			svelte({customElement: true,tag: "my-component-tag-name"}),
 			resolve()
 		]
 	},
