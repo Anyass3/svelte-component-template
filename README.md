@@ -10,7 +10,7 @@
 
 # Installation
 ```shell
-degit Anyass3/svelte-component-template
+degit Anyass3/svelte-component-template#main
 ```
 if you don't already install degit globally try:
 ```shell
