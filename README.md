@@ -1,8 +1,12 @@
 ## this is my own customized svelte component template builder
-> It is already configured for a low implementation any webapp
-> Svelte component
-> General(In any other js project) component as a module and nomodule fallback
-> Also as a custom element
+1. It is already configured for a low implementation any webapp
+  > dist/lib/*
+2. Svelte component
+  > src/svelte/*
+3. General(In any other js project) component as a module and nomodule fallback
+  > dist/component/*
+4. Also as a custom element for use in any web-project
+  > dist/customElement/*
 
 # Installation
 ```shell
