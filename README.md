@@ -17,4 +17,4 @@ if you don't already install degit globally try:
 npm install -g degit
 ```
 
-ELSE: You make clone this repo or do your way.
+ELSE: You may clone this repo or do your way.
