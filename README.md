@@ -7,6 +7,7 @@
   > dist/component/*
 4. Also as a custom element for use in any web-project
   > dist/customElement/*
+
   > NOTE: change the customElement tag in the rullup config 'my-component-tag-name'
 
 # Installation
