@@ -1,4 +1,4 @@
-## this is my own customized svelte component template builder
+## This is my own customized svelte component template builder
 1. It is already configured for a low level implementation any webapp
   > dist/lib/*
 2. Svelte component
