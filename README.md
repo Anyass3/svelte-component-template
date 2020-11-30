@@ -1,5 +1,5 @@
 ## this is my own customized svelte component template builder
-1. It is already configured for a low implementation any webapp
+1. It is already configured for a low level implementation any webapp
   > dist/lib/*
 2. Svelte component
   > src/svelte/*
@@ -7,6 +7,7 @@
   > dist/component/*
 4. Also as a custom element for use in any web-project
   > dist/customElement/*
+  > NOTE: change the customElement tag in the rullup config 'my-component-tag-name'
 
 # Installation
 ```shell
